@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "vsavi.io"
+title                    : "vsav.io"
 title_separator          : "-"
-name                     : "vsavi"
+name                     : "vsav"
 description              : "Tools and Cheatsheets"
-url                      : "https://vsavi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vsav.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "vsavilov/vsavi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "vsavilov42/vsav.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "vsavilov"
+  name             : "Vsav"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, HTB enjoyer<br>C/C++ Programmer"
-  location         : "Spain"
+  location         : # "Spain"
   email            : # ""
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -117,7 +117,7 @@ author:
   github           : "vsavilov42"
   gitlab           :
   google_plus      :
-  keybase          : #"vsavi"
+  keybase          : #"vsav"
   instagram        :
   lastfm           :
   linkedin         : #"victor-savilov" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
