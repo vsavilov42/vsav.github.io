@@ -20,7 +20,7 @@ This post is for explain chisel in his basic state, used to create a server and 
 Tool: [Chisel Github](https://github.com/jpillora/chisel "Chisel github by jpillora")
 
 ## Concept of Chisel Client-Server
-![](/assets/images/Tool-Chisel/WorkflowClient-server.PNG)
+![](/assets/images/toolChisel/WorkflowClient-server.PNG)
 
 ## Commands for Windows and Linux
 
