@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Chisel -- Tool Portforwarding
 date: 2024-02-20
 classes: wide
