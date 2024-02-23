@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: single
 title: Chisel -- Tool Portforwarding
 date: 2024-02-20
 classes: wide
 header:
-    teaser: /assets/images/Tool-Chisel/HeadChisel.PNG
+    icon: /assets/images/toolChisel/HeadChisel.PNG
 categories:
   - Tool
   - SSH
@@ -17,7 +17,7 @@ tags:
 
 This post is for explain chisel in his basic state, used to create a server and client to allow portforwarding between two machines.
 
-Tool: [Link](https://github.com/jpillora/chisel "Chisel github by jpillora")
+Tool: [Chisel Github](https://github.com/jpillora/chisel "Chisel github by jpillora")
 
 ## Concept of Chisel Client-Server
 ![](/assets/images/Tool-Chisel/WorkflowClient-server.PNG)
