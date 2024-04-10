@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Phishing -- SPF, DKIM and DMARK
-date: 2024-04-10
+date: 2024-02-23
 classes: wide
 header:
     icon: /assets/images/phishingRegistry/phishingMain.PNG
